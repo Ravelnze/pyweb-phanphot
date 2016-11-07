@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    background-image: url('../img/Flip.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.no-scroll {
+  overflow: hidden;
+}
+
+#page-content-wrapper  {
+    overflow: auto;
+}
+
+.modal-body {
+    padding: 0;
+}
